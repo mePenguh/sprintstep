@@ -1,0 +1,17 @@
+{
+    "criteria": {
+        "sprintStep": {
+            "trigger": "tick",
+            "conditions": {
+                "player": {
+                    "flags": {
+                        "is_sprinting": true
+                    }
+                }
+            }
+        }
+    },
+    "rewards": {
+        "function": "sprintstep:apply"
+    }
+}
