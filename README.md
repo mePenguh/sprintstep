@@ -1,5 +1,5 @@
 # Pengu's SprintStep
-A tiny Minecraft data pack that increases your step height while sprinting
+A tiny data pack that lets you run up blocks by doubling your step height while sprinting!
 
 <br>
 
